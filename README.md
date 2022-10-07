@@ -1,8 +1,5 @@
-# Заголовок 1
-# Заголовок 2
+# Hello, World!
 
-# Заголовок 3
+Im study in Netology
 
-# Заголовок 4
-
-# Заголовок 5
+Git is great!
